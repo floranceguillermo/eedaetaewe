@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paesoanaca.osslab.online/sitemap.xml
